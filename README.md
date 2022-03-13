@@ -11,3 +11,6 @@ From Nand to Tettis: https://www.nand2tetris.org/ <br>
 Objects: 各章に収録されている演習問題の解答をアップしています<br>
 circuits: LTspiceで設計した回路図データをアップしています <br>
 fpga: FPGAを用いて実装した設計データをアップしています(comming soon)<br>
+
+# Link
+Blogに構築する過程を書き綴っています: https://subarukun.hatenablog.com/
